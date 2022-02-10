@@ -1,0 +1,39 @@
+body {
+    background-color: #FFB7D5;
+}
+
+.conteudo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: solid 5px whitesmoke;
+    padding: 30px;
+    margin: 15px;
+    height: 85vh;
+}
+
+.texto {
+    font-family: verdana;
+}
+
+.titulo {
+    color: #4F3B43;
+}
+
+.gif {
+    margin: 30px;
+    width: 400px;
+    border-radius: 30px;
+    border: solid 5px #D096AE;
+}
+
+.gif:hover {
+    transform: scale(1.2);
+    border-color: #FFDBEA;
+    transition: 1.2s;
+}
+
+#paragrafo {
+    font-size: 20px;
+    color: whitesmoke;
+}
