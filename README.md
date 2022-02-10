@@ -22,7 +22,13 @@ Independente da sua resposta, saiba que eu já fui desse time. Eu *odiava* css. 
         width="800"
 />
 
-<hr> 
 
+## Como abrir o projeto?
+
+* Faça o dowload do projeto
+* Copie o endereço/caminho do arquivo `index.html` no seu computador e cole em um navegador de sua preferência
+
+<hr>
+ 
 Made with ☕ & &#128156; by *eirene*
 
