@@ -13,7 +13,7 @@ Independente da sua resposta, saiba que eu já fui desse time. Eu *odiava* css. 
 
 **Neste artigo, minha proposta é trazer alguns conceitos bem básicos de css com a estilização de uma página HTML simples.** Conceitos estes que foram o começo da minha saga *enimy to lovers* já que hoje em dia sou completamente apaixonada por css.
 
-[Continuar Lendo...]()
+[Continuar Lendo...](https://medium.com/orangejuicefc/n%C3%A3o-fuja-do-css-2cb0d512792c)
 
 ## Resultados :sparkles:
 
